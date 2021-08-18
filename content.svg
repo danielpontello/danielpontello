@@ -862,14 +862,6 @@
        y="5.2916665">
       <xhtml:div>
         <xhtml:style>
-				@keyframes rotate {
-					0% {
-						transform: rotate(3deg);
-					}
-					100% {
-						transform: rotate(-3deg);
-					}
-				}
 				@keyframes gradientBackground {
 					0% {
 						background-position: 0% 50%;
@@ -911,27 +903,82 @@
 					text-align: center;
 				}
 
+            @keyframes hello1 {
+               0%   {opacity: 0; margin-top: 2px;}
+               2%   {opacity: 1; margin-top: 0px;}
+               18%  {opacity: 1; margin-top: 0px;}
+               20% {opacity: 0; margin-top: -2px;}
+               100% {opacity: 0; margin-top: -2px;}
+            }
+
+            @keyframes hello2 {
+               0%    {opacity: 0; margin-top: 2px;}
+               20%   {opacity: 0; margin-top: 2px;}
+               22%   {opacity: 1; margin-top: 0px;}
+               38%   {opacity: 1; margin-top: 0px;}
+               40%   {opacity: 0; margin-top: -2px;}
+               100%  {opacity: 0; margin-top: -2px;}
+            }
+
+            @keyframes hello3 {
+               0%    {opacity: 0; margin-top: 2px;}
+               40%   {opacity: 0; margin-top: 2px;}
+               42%   {opacity: 1; margin-top: 0px;}
+               58%   {opacity: 1; margin-top: 0px;}
+               60%   {opacity: 0; margin-top: -2px;}
+               100%  {opacity: 0; margin-top: -2px;}
+            }
+
+            @keyframes hello4 {
+               0%    {opacity: 0; margin-top: 2px;}
+               60%   {opacity: 0; margin-top: 2px;}
+               62%   {opacity: 1; margin-top: 0px;}
+               78%   {opacity: 1; margin-top: 0px;}
+               80%   {opacity: 0; margin-top: -2px;}
+               100%  {opacity: 0; margin-top: -2px;}
+            }
+
+            @keyframes hello5 {
+               0%    {opacity: 0; margin-top: 2px;}
+               80%   {opacity: 0; margin-top: 2px;}
+               82%   {opacity: 1; margin-top: 0px;}
+               98%   {opacity: 1; margin-top: 0px;}
+               100%   {opacity: 0; margin-top: -2px;}
+            }
+
             .container h3 {
+               display: flex;
                font-size: 16px;
-               width: 100%;
                margin: 0px;
-               text-align: center;
-               position: absolute;               /* 2 */
-               top: 50%;                         /* 3 */
-               animation: rotate ease-in-out 1s infinite alternate;
-               transform: translate(0, -50%);
-               margin-top: -12px;
+               text-align: left;
+               justify-content: left;
+               align-items: left;
+               position: absolute;
+               top: 0;    
+               left: 0;
+               bottom: 0;
+               right: 0; 
+               margin-top:2px;
+               opacity: 0;     
                background: rgb(250,29,253);
                background: linear-gradient(90deg, rgba(250,29,253,1) 21%, rgba(252,176,69,1) 59%);
                -webkit-background-clip: text;
                -webkit-text-fill-color: transparent;
             }
 
+            #hello1 { animation: hello1 12s infinite; }
+            #hello2 { animation: hello2 12s infinite; }
+            #hello3 { animation: hello3 12s infinite; }
+            #hello4 { animation: hello4 12s infinite; }
+            #hello5 { animation: hello5 12s infinite; }
+
 			</xhtml:style>
-        <xhtml:div
-           class="container"
-           style="background: red;">
-          <xhtml:h3>hello!</xhtml:h3>
+        <xhtml:div class="container">
+          <xhtml:h3 id="hello1">Olá!</xhtml:h3>
+          <xhtml:h3 id="hello2">안녕하세요！</xhtml:h3>
+          <xhtml:h3 id="hello3">Hello!</xhtml:h3>
+          <xhtml:h3 id="hello4">こんにちは！</xhtml:h3>
+          <xhtml:h3 id="hello5">¡Hola!</xhtml:h3>
         </xhtml:div>
       </xhtml:div>
     </foreignObject>
