@@ -931,7 +931,7 @@
         <xhtml:div
            class="container"
            style="background: red;">
-          <xhtml:h3>ようこそ！</xhtml:h3>
+          <xhtml:h3>hello!</xhtml:h3>
         </xhtml:div>
       </xhtml:div>
     </foreignObject>
