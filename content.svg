@@ -7,7 +7,7 @@
    viewBox="0 0 211.66666 127"
    version="1.1"
    id="svg5"
-   sodipodi:docname="content2p.svg"
+   sodipodi:docname="content.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,9 +24,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="2.5721009"
-     inkscape:cx="325.60931"
-     inkscape:cy="178.06455"
+     inkscape:zoom="1.81875"
+     inkscape:cx="348.31615"
+     inkscape:cy="312.85223"
      inkscape:window-width="2560"
      inkscape:window-height="1346"
      inkscape:window-x="2549"
@@ -604,10 +604,10 @@
     <filter
        style="color-interpolation-filters:sRGB"
        id="filter3946"
-       x="-0.025547139"
-       y="-0.066284467"
+       x="-0.025547142"
+       y="-0.05167786"
        width="1.0510943"
-       height="1.1325689">
+       height="1.1033557">
       <feGaussianBlur
          stdDeviation="1.1643693"
          id="feGaussianBlur3948" />
@@ -861,6 +861,11 @@
        height="100"
        id="rect1776" />
   </defs>
+  <g
+     aria-label="About Me"
+     id="g567"
+     style="font-weight:bold;font-size:3.36377px;line-height:1.25;font-family:'Cascadia Code';-inkscape-font-specification:'Cascadia Code Bold';fill:#7e2553;stroke-width:0.0840943"
+     transform="translate(0.08700867,50.354938)" />
   <path
      id="path57686"
      style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.799999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter57688)"
@@ -874,18 +879,13 @@
      y="5.8208332"
      rx="3.6084316"
      ry="3.6084316" />
-  <g
-     aria-label="About Me"
-     id="g567"
-     style="font-weight:bold;font-size:3.36377px;line-height:1.25;font-family:'Cascadia Code';-inkscape-font-specification:'Cascadia Code Bold';fill:#7e2553;stroke-width:0.0840943"
-     transform="translate(0.08700867,50.354938)" />
   <rect
      style="fill:none;stroke:#000000;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter3946)"
      id="rect18783"
-     width="126.99999"
-     height="48.947914"
+     width="126.99998"
+     height="62.782909"
      x="5.2916718"
-     y="72.043335"
+     y="58.208332"
      rx="3.6084316"
      ry="3.6084316" />
   <rect
@@ -1267,46 +1267,46 @@
      y="0"><tspan
        x="37.283203"
        y="300.01135"
-       id="tspan1437"><tspan
+       id="tspan1698"><tspan
          dx="0 0 0 0 3.960743 0 0 3.960743 0 0 0 0 3.9607391 0 0 3.9607468 0 0 0 0 0 0 3.9607391 0 0 0 0 0 3.9607391 0 0 0 3.9607391 0 0 0 3.9607544 0 3.9607239 0 0 0 0 0 0 0 0 3.9607544"
          style="font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'"
-         id="tspan1435">Hi! My name is Daniel Sader and I'm a computer engineer </tspan></tspan><tspan
+         id="tspan1696">Hi! My name is Daniel Sader and I'm a computer engineer </tspan></tspan><tspan
        x="37.283203"
        y="320.19656"
-       id="tspan1441"><tspan
+       id="tspan1702"><tspan
          dx="0 0 0 0 0 0 0 0 0 0 2.840126 0 0 0 0 0 0 0 2.840126 0 0 0 2.8401184 0 0 0 0 0 0 0 0 0 2.8401184 0 0 0 0 0 0 0 0 0 0 0 2.8401184 0 0 0 0 0 0 0 0 0 2.8401184 0 0 0 2.8401184"
          style="font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'"
-         id="tspan1439">currently working for Capgemini Engineering Portugal, and a </tspan></tspan><tspan
+         id="tspan1700">currently working for Capgemini Engineering Portugal, and a </tspan></tspan><tspan
        x="37.283203"
        y="340.38177"
-       id="tspan1445"><tspan
+       id="tspan1706"><tspan
          dx="0 0 0 0 0 6.5251236 0 0 0 0 0 0 0 0 0 6.5251236 0 0 6.5251312 0 0 6.525116 0 0 0 0 6.5251312 0 0 0 0 0 6.5251465 6.525116 6.525116 6.525116 6.5251465 6.525116 6.525116 6.5251465 6.525116 6.525116 6.525116 6.5251465 6.525116 6.525116 6.525116 6.5251465 6.525116"
          style="font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'"
-         id="tspan1443">game developer in my free time.                 
+         id="tspan1704">game developer in my free time.                 
 </tspan></tspan><tspan
        x="37.283203"
        y="360.56698"
-       id="tspan1449"><tspan
+       id="tspan1710"><tspan
          style="font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'"
-         id="tspan1447">
+         id="tspan1708">
 </tspan></tspan><tspan
        x="37.283203"
        y="380.75219"
-       id="tspan1453"><tspan
+       id="tspan1714"><tspan
          dx="0 0 3.4583988 0 0 0 0 3.4584007 0 0 0 0 0 3.4584045 0 0 0 0 0 0 3.4583893 0 0 0 0 0 0 0 0 0 3.4584045 0 0 3.4584045 0 0 0 0 0 3.4584045 0 0 0 3.458374 0 0 0 0 0 0 0 3.4584045 0 0 0 0 3.4584045"
          style="font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'"
-         id="tspan1451">I love video games, listening to music and playing with old </tspan></tspan><tspan
+         id="tspan1712">I love video games, listening to music and playing with old </tspan></tspan><tspan
        x="37.283203"
        y="400.9374"
-       id="tspan1457"><tspan
+       id="tspan1718"><tspan
          style="font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'"
-         id="tspan1455">hardware.
+         id="tspan1716">hardware.
 </tspan></tspan><tspan
        x="37.283203"
        y="421.12261"
-       id="tspan1461"><tspan
+       id="tspan1722"><tspan
          style="font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'"
-         id="tspan1459">
+         id="tspan1720">
 </tspan></tspan></text>
   <g
      aria-label="C#"
@@ -1343,9 +1343,9 @@
      style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect106988);fill:#fcf5e0;fill-opacity:1;stroke:none"><tspan
        x="543.83008"
        y="136.41174"
-       id="tspan1465"><tspan
+       id="tspan1726"><tspan
          style="font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'"
-         id="tspan1463">WPF, WinForms, Unity 3D</tspan></tspan></text>
+         id="tspan1724">WPF, WinForms, Unity 3D</tspan></tspan></text>
   <g
      aria-label="C++"
      transform="matrix(0.26458333,0,0,0.26458333,-0.3519167,40.079317)"
@@ -1389,9 +1389,9 @@
      style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect144790);fill:#fcf5e0;fill-opacity:1;stroke:none"><tspan
        x="543.83008"
        y="136.41174"
-       id="tspan1469"><tspan
+       id="tspan1730"><tspan
          style="font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'"
-         id="tspan1467">Qt, Google Tests, Unreal Engine</tspan></tspan></text>
+         id="tspan1728">Qt, Google Tests, Unreal Engine</tspan></tspan></text>
   <g
      id="g1193">
     <g
@@ -1462,9 +1462,9 @@
      style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect151177);fill:#fcf5e0;fill-opacity:1;stroke:none"><tspan
        x="543.83008"
        y="136.41174"
-       id="tspan1473"><tspan
+       id="tspan1734"><tspan
          style="font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'"
-         id="tspan1471">Pandas, OpenCV, Keras, PyGame</tspan></tspan></text>
+         id="tspan1732">Pandas, OpenCV, Keras, PyGame</tspan></tspan></text>
   <g
      aria-label="linux"
      transform="matrix(0.26458333,0,0,0.26458333,-0.3519167,80.040811)"
@@ -1524,9 +1524,9 @@
      style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect157005);fill:#fcf5e0;fill-opacity:1;stroke:none"><tspan
        x="543.83008"
        y="136.41174"
-       id="tspan1477"><tspan
+       id="tspan1738"><tspan
          style="font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'"
-         id="tspan1475">Shell Scripting, System Admin</tspan></tspan></text>
+         id="tspan1736">Shell Scripting, System Admin</tspan></tspan></text>
   <g
      aria-label="java"
      transform="matrix(0.26458333,0,0,0.26458333,-0.3519167,60.056961)"
@@ -1578,9 +1578,9 @@
      style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect168097);fill:#fcf5e0;fill-opacity:1;stroke:none"><tspan
        x="543.83008"
        y="136.41174"
-       id="tspan1481"><tspan
+       id="tspan1742"><tspan
          style="font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'"
-         id="tspan1479">Swing, Spring, Android</tspan></tspan></text>
+         id="tspan1740">Swing, Spring, Android</tspan></tspan></text>
   <style
      type="text/css"
      id="style26" />
@@ -1592,9 +1592,9 @@
      width="94.22583"
      height="15.22426"
      x="33.945984"
-     y="12.549727" >
-     <xhtml:div>
-        <xhtml:style>
+     y="12.549727">
+    <xhtml:div>
+      <xhtml:style>
 				@keyframes gradientBackground {
 					0% {
 						background-position: 0% 50%;
@@ -1705,19 +1705,19 @@
             #hello5 { animation: hello5 12s infinite; }
 
 			</xhtml:style>
-        <xhtml:div
-           class="container">
-          <xhtml:h3
-             id="hello1">Olá!</xhtml:h3>
-          <xhtml:h3
-             id="hello2">안녕하세요！</xhtml:h3>
-          <xhtml:h3
-             id="hello3">Hello!</xhtml:h3>
-          <xhtml:h3
-             id="hello4">こんにちは！</xhtml:h3>
-          <xhtml:h3
-             id="hello5">¡Hola!</xhtml:h3>
-        </xhtml:div>
+      <xhtml:div
+         class="container">
+        <xhtml:h3
+           id="hello1">Olá!</xhtml:h3>
+        <xhtml:h3
+           id="hello2">안녕하세요！</xhtml:h3>
+        <xhtml:h3
+           id="hello3">Hello!</xhtml:h3>
+        <xhtml:h3
+           id="hello4">こんにちは！</xhtml:h3>
+        <xhtml:h3
+           id="hello5">¡Hola!</xhtml:h3>
       </xhtml:div>
-     </foreignObject>
+    </xhtml:div>
+  </foreignObject>
 </svg>
