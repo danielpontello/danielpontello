@@ -776,16 +776,16 @@
           margin: 0;
           width: 100%;
           height: 100%;
-				}
+	}
 
-				.container {
+	.container {
           display: flex;
           flex-direction: column;
           background: none;
           margin: 0;
           width: 100%;
           height: 100%;
-				}        
+	}        
 
         /* Footer Wave Animations by Firefudh.net */
         #footer-navmenu .wave-animation{
