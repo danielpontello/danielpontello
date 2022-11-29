@@ -780,6 +780,7 @@
 	}
 
 	.container {
+	  font-family: Segoe UI, sans-serif
           display: flex;
           flex-direction: column;
           background: none;
@@ -846,9 +847,6 @@
             }
         }
 
-        .wave-animation{
-            height:3em
-        }
 
 			</xhtml:style>
       <xhtml:div
