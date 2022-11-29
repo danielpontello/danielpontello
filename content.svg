@@ -845,11 +845,8 @@
             }
         }
 
-        .wave-animation{
-            height:3em
-        }
 
-			</xhtml:style>
+     </xhtml:style>
       <xhtml:div class="container">
         <xhtml:div id='footer-navmenu'>
           <svg class='wave-animation' preserveAspectRatio='none' viewBox='0 24 150 28' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
