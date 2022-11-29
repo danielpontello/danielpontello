@@ -881,9 +881,9 @@
             <path d='M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z' id='gentle-wave'/>
             </defs>
             <g class='wave-bg'>
-            <use fill='rgba(242,193,78,.5)' x='50' xlink:href='#gentle-wave' y='0'/>
-            <use fill='rgba(242,193,78,.7)' x='50' xlink:href='#gentle-wave' y='3'/>
-            <use fill='#fff' x='50' xlink:href='#gentle-wave' y='6'/>
+            <use fill='rgba(217,27,110,.5)' x='50' xlink:href='#gentle-wave' y='0'/>
+            <use fill='rgba(217,27,110,.7)' x='50' xlink:href='#gentle-wave' y='3'/>
+            <use fill='rgba(217,27,110,.9)' x='50' xlink:href='#gentle-wave' y='6'/>
             </g>
             </svg>
           </xhtml:div>
