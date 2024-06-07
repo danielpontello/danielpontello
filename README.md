@@ -6,4 +6,4 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: static; width: 100vw; height: 100vh; object-fit: cover; background-size: contain; background-repeat: no-repeat; opacity: 0.5; background: url('https://raw.githubusercontent.com/danielpontello/danielpontello/cssbg/bg2.jpg');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; object-fit: cover; background-size: contain; background-repeat: no-repeat; opacity: 0.5; background: url('https://raw.githubusercontent.com/danielpontello/danielpontello/cssbg/bg2.jpg');]{x0000}$}
